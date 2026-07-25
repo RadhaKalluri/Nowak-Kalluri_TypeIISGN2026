@@ -29,7 +29,7 @@ Demonstrates simulations in which model parameters are randomly varied to examin
 
 ### 6. TypeIandIIPulseTrain.ipynb
 
-Reproduces the pulse-train simulations presented in Figure XX of the manuscript. (Figure 10)
+Reproduces the pulse-train simulations presented in Figure 10 of the manuscript. 
 
 ## Model Use and Reproducibility
 
