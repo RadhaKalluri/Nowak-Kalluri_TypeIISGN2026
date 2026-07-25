@@ -13,23 +13,23 @@ This Excel file contains the raw electrophysiological measurements used for the 
 
 ### 2. TypeIandTypeIIUMAP.ipynb
 
-Performs the UMAP dimensionality reduction and clustering analysis using the raw electrophysiological dataset provided in **TypeIIPaperUMAPdata.xlsx**.  (Figures 4 & 5)
+Performs the UMAP dimensionality reduction and clustering analysis using the raw electrophysiological dataset provided in **TypeIIPaperUMAPdata.xlsx**.  (Figures 3 & 4)
 
 ### 3. VClampRealvsModelFigures.ipynb
 
-Uses the same Type I and Type II neuron models to simulate voltage-clamp responses and compares simulated currents with representative experimental recordings. (Figure 9 A,B,E)
+Uses the same Type I and Type II neuron models to simulate voltage-clamp responses and compares simulated currents with representative experimental recordings. (Figure 8 A,B,E)
 
 ### 4. RealvsModelCClampTypeI.ipynb
 
-Defines the computational models for representative Type I and Type II spiral ganglion neurons and compares simulated current-clamp responses with representative experimental recordings. (Figure 9 C,D,F)
+Defines the computational models for representative Type I and Type II spiral ganglion neurons and compares simulated current-clamp responses with representative experimental recordings. (Figure 8 C,D,F)
 
 ### 5. AnodeBreak_BulkDraw.ipynb
 
-Demonstrates simulations in which model parameters are randomly varied to examine the impact of ion channel density on anode break spiking. (Figure 9H)
+Demonstrates simulations in which model parameters are randomly varied to examine the impact of ion channel density on anode break spiking. (Figure 8H)
 
 ### 6. TypeIandIIPulseTrain.ipynb
 
-Reproduces the pulse-train simulations presented in Figure 10 of the manuscript. 
+Reproduces the pulse-train simulations presented in Figure 9 of the manuscript. 
 
 ## Model Use and Reproducibility
 
